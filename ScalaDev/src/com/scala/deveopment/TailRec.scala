@@ -6,6 +6,8 @@ object TailRec {
 
   def main(args:Array[String])={
     println("factorial="+ factorial(5)) 
+    println("adding message")
+    
     
   }
   
